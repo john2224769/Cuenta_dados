@@ -32,11 +32,11 @@ for i in range(n):
         c6=c6+1
 
 #output
-print("\nLa cara 1 aparecio: "+str(c1)+" veces")
-print("La cara 2 aparecio: "+str(c2)+" veces")
-print("La cara 3 aparecio: "+str(c3)+" veces")
-print("La cara 4 aparecio: "+str(c4)+" veces")
-print("La cara 5 aparecio: "+str(c5)+" veces")
-print("La cara 6 aparecio: "+str(c6)+" veces")
+print("\nLa cara 1 aparecio: "+str(c1)+" veces"+" *"*c1)
+print("La cara 2 aparecio: "+str(c2)+" veces"+" *"*c2)
+print("La cara 3 aparecio: "+str(c3)+" veces"+" *"*c3)
+print("La cara 4 aparecio: "+str(c4)+" veces"+" *"*c4)
+print("La cara 5 aparecio: "+str(c5)+" veces"+" *"*c5)
+print("La cara 6 aparecio: "+str(c6)+" veces"+" *"*c6)
 print(" ")
 
